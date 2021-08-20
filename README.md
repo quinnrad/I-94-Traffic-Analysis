@@ -1,5 +1,5 @@
 # I-94-Traffic-Analysis
-## Cleaning and visualization of I-94 traffic dataset with intention of determining causes of heavy traffic during the daytime. Guided project from [DataQuest](https://github.com/dataquestio) coursework.
+## Cleaning and visualization of I-94 traffic dataset with intention of determining causes of heavy traffic during the daytime. This project is from [DataQuest](https://github.com/dataquestio) coursework, sharing guided steps to complete the analysis.
 
 The data used to perform this analysis was collected with proximity to MN DoT ATR station 301, located approximately half-way between Minneapolis and Saint Paul. Data was collected between 2012 and 2018. Eastbound traffic data is not collected or analyzed in this project.
 
